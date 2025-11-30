@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/reza-keyvan02/node-6/issues"
   },
-  "homepage": "https://github.com/reza-keyvan02/node-6#readme"
+  "homepage": "https://github.com/reza-keyvan02/node-6#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
