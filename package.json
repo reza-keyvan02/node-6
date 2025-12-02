@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/reza-keyvan02/node-6/issues"
   },
-  "homepage": "https://github.com/reza-keyvan02/node-6#readme"
+  "homepage": "https://github.com/reza-keyvan02/node-6#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.11"
+  }
 }
